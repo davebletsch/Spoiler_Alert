@@ -1,2 +1,2 @@
-# mod_6_project
+# Movie Spoiler Analysis
 Movie Spoilers
