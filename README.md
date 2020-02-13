@@ -1,2 +1,6 @@
 # Movie Spoiler Analysis
-Movie Spoilers
+#### Dataset
+#### Technology Stack
+#### Process
+#### Results
+#### Conclusions/Moving Foward
