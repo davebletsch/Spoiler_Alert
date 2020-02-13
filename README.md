@@ -2,8 +2,8 @@
 #### Dataset
 IMDB Spoiler Dataset (https://rishabhmisra.github.io/publications/)
 
-573913 records
-150924 spoiler reviews
+  - 573913 records
+  - 150924 spoiler reviews
 
 #### Technology Stack
   - Pandas
